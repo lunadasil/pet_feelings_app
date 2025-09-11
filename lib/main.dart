@@ -220,3 +220,4 @@ class _DayForecast {
   _DayForecast({required this.date, required this.tempC, required this.condition});
 } //Commit Checkpoint: Basic UI with input field and button 
 // Commit checkpoint: Simulated weather data for input city
+// Commit checkpoint: Displayed simulated weather information
