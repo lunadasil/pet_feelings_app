@@ -218,4 +218,4 @@ class _DayForecast {
   final int tempC;
   final String condition;
   _DayForecast({required this.date, required this.tempC, required this.condition});
-}
+} //Commit Checkpoint: Basic UI with input field and button
