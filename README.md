@@ -1,16 +1,10 @@
-# act1
+# Activity 5
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Team Members: Luna Da Silva
+Assignment: In-Class Activity #5 – Digital Pet App with State Management
+Notes:
+- Meets core app + stateful logic requirements.
+- Part (1) features implemented: Dynamic color, Mood indicator, Pet name customization,
+   Hunger increases over time (Timer), Win/Loss conditions.
+- Part (2) features implemented: Energy bar widget, Energy level logic,
+   Activity selection (dropdown), State updates based on activity.
